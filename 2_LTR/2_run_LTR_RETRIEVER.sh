@@ -7,4 +7,4 @@ genome=/home/why/Juihung/Triplophysa_tibetana/rawdata/genome/Ttib.genome.newname
 scn=Ttib.genome.newname.fa.finder.combine.scn
 
 
-$LTR_RETRIEVER -genome $genome -inharvest $scn -threads 36 -repeatmasker $repeatmasker -cdhit_path $cdhit
+$LTR_RETRIEVER -genome $genome -inharvest $scn -threads 36 -noanno -repeatmasker $repeatmasker -cdhit_path $cdhit
