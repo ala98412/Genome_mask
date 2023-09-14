@@ -1,2 +1,2 @@
 # Genome_mask
-Genome_mask_workflow
+Genome_masking_workflow
