@@ -5,8 +5,9 @@ BuildDatabase=/home/why/Tools/RepeatMasker_Tools/RepeatModeler-2.0.2a/BuildDatab
 RepeatClassifier=/home/why/Tools/RepeatMasker_Tools/RepeatModeler-2.0.2a/RepeatClassifier
 repeatmasker=/home/why/Tools/RepeatMasker_Tools/RepeatMasker/RepeatMasker
 
-genome=/home/why/Juihung/Triplophysa_tibetana/rawdata/genome/Ttib.genome.newname.fa
-sp_name=Ttib
+sp_name=Omac
+genome=../../genome/$sp_name.genome.newname.fa
+
 
 export BLAST_USAGE_REPORT=false
 
