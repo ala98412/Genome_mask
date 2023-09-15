@@ -2,7 +2,7 @@
 
 repeatmasker=/home/why/Tools/RepeatMasker_Tools/RepeatMasker/RepeatMasker
 
-genome=/home/why/Juihung/Triplophysa_tibetana/rawdata/genome/Ttib.genome.newname.fa
+genome=../../genome/Omac.genome.newname.fa
 
 echo "Start running RepeatMasker"
 #$repeatmasker -lib ./Hn_denovo_lib.fa -dir ./ $genome \
