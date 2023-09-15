@@ -7,5 +7,5 @@ align=Ttib.genome.newname.fa.align
 name=Ttib.genome.newname.fa
 
 
-#$calcDivergenceFromAlign -s $name.divsum $align
+$calcDivergenceFromAlign -s $name.divsum $align
 $createRepeatLandscape -div $name.divsum -g$genome_size > Ttib.html
