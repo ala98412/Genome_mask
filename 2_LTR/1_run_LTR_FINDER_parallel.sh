@@ -2,7 +2,7 @@
 
 LTR_P=/home/why/Tools/RepeatMasker_Tools/LTR_FINDER_parallel/LTR_FINDER_parallel
 
-genome=/home/why/Juihung/Triplophysa_tibetana/rawdata/genome/Ttib.genome.newname.fa
+genome=../../genome/Omac.genome.newname.fa
 
 
 echo "Start LTR_FINDER_PARALLEL"
